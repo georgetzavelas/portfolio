@@ -2,6 +2,10 @@
   "sections": {
     "custom_liquid_yerJpj": {
       "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [
+
+      ],
       "settings": {
         "custom_liquid": "",
         "color_scheme": "",
